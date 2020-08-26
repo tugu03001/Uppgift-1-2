@@ -1,0 +1,48 @@
+
+
+body{
+	background-color:light grey;
+	
+}
+h1{
+	font-family:arial;
+	font-size:22px;
+	background-color:red;
+	color:white;
+}
+h2{
+	background-color:green;
+	border-radius:10px;
+	color:white;
+	
+}
+p.text1{
+	background-color:orange;
+	border: 3px solid black;
+	color:white;
+
+}
+p.text2{
+	background-color:yellow;
+	border: 3px solid black;
+	color:black;
+}
+p.text3{
+	background-color:turquoise;
+	border-radius:8px;
+	color:pink;
+	text-align: center;
+}
+p.text4{
+	background-color:blue;
+	border-radius:8px;
+	color:pink;
+	text-align: center;
+}
+p.text5{
+	background-color:purple;
+	border-radius:8px;
+	color:white;
+	text-align: right;
+}
+
